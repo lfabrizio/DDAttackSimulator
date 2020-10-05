@@ -7,9 +7,14 @@ public class Player {
     private int defense;
 
     public Player(int attacker, int hitPoint, int armour, int defense){
-
+    this.attacker = attacker;
+    this.hitPoint = hitPoint;
+    this.armour = armour;
+    this.defense = defense;
     }
 
+
+    
     public int getAttacker() {
         return attacker;
     }
