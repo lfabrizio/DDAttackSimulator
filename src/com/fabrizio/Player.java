@@ -6,6 +6,6 @@ public class Player {
     private int armour;
 
     public Player(){
-        
+
     }
 }
