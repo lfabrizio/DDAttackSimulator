@@ -7,6 +7,10 @@ public class Die {
     private int value;
     private static Random rand;
 
+    public Die() {
+        // empty constructor
+    }
+    // overloading
     public Die(int sides){
         this.sides = sides;
     }
@@ -15,3 +19,6 @@ public class Die {
     value = rand.nextInt(sides) +1;
     }
 }
+
+
+

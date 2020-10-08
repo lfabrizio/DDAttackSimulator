@@ -14,7 +14,7 @@ public class Player {
     }
 
 
-    
+
     public int getAttacker() {
         return attacker;
     }
