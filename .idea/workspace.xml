@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93acd39-a68e-407a-b68f-ebd393c86e0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fabrizio/Console.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Die.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Die.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Character.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -58,7 +63,9 @@
       <workItem from="1601688051740" duration="112000" />
       <workItem from="1601848809833" duration="1695000" />
       <workItem from="1601938198651" duration="1386000" />
-      <workItem from="1602192603621" duration="88000" />
+      <workItem from="1602192603621" duration="1003000" />
+      <workItem from="1602625715045" duration="2648000" />
+      <workItem from="1602629451172" duration="1103000" />
     </task>
     <servers />
   </component>
@@ -66,9 +73,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1601938285022">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1602629812184">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601938285022" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602629812184" />
   </component>
 </project>

@@ -1,17 +1,19 @@
 package com.fabrizio;
 
-public class Player {
+public class Character {
     private int attacker;
     private int hitPoint;
     private int armour;
     private int defense;
 
-    public Player(int attacker, int hitPoint, int armour, int defense){
+    public Character(int attacker, int hitPoint, int armour, int defense){
     this.attacker = attacker;
     this.hitPoint = hitPoint;
     this.armour = armour;
     this.defense = defense;
     }
+
+
 
 
 
