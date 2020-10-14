@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Console {
+public class Console{
+    public Console(){
+
+    }
+
     public static List<Integer> userChoices() {
 
         List<Integer> modifiers = new ArrayList<Integer>();

@@ -1,5 +1,9 @@
 package com.fabrizio;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class Player {
     private String player; //player 1, 2 etc etc
     private int health; // set to 100% till damaged
@@ -8,10 +12,26 @@ public class Player {
     private String background; //Noble, Folk Hero, Acolyte, etc.
     private String alignment; //Lawful, Neutral, or Chaotic
 
-    public Player(String player, String classType){
+    public Player(){
+        //empty constructor
+    }
+
+
+    public Player(String player, String classType) {
         this.player = player;
         this.classType = classType;
         health = 100;
+    }
+
+    public void playerSelections() {
+        System.out.print("Welcome Player: " + player);
+        List<String> selections = new ArrayList<String>();
+        Scanner scanner = new Scanner(System.in);
+         System.out.print("Select ClassType: ");
+        selections.add(scanner.nextLine());
+         System.out.print("Select Background: ");
+         selections.add(scanner.nextLine());
+        System.out.println(selections);
     }
 
     public int getHealth(int health){
