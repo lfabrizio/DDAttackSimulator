@@ -15,16 +15,16 @@ public class Calculator {
     }
     public static void attack(int dieValue, int defenseModifier){
         if(dieValue == 20){
-            System.out.println("critical hit");
+            System.out.println("critical attack hit!");
         }
         if(dieValue == 1){
-            System.out.println("critical miss");
+            System.out.println("critical miss!");
         }
         if(dieValue < defenseModifier){
-            System.out.println("miss");
+            System.out.println("miss!");
         }
         if(dieValue > defenseModifier){
-            System.out.println("hit");
+            System.out.println("hit!!");
         }
     }
 

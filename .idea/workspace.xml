@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93acd39-a68e-407a-b68f-ebd393c86e0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/fabrizio/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/fabrizio/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Die.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Die.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,10 @@
       <workItem from="1601938198651" duration="1386000" />
       <workItem from="1602192603621" duration="1003000" />
       <workItem from="1602625715045" duration="2648000" />
-      <workItem from="1602629451172" duration="1103000" />
+      <workItem from="1602629451172" duration="2163000" />
+      <workItem from="1602633721460" duration="604000" />
+      <workItem from="1602634409286" duration="800000" />
+      <workItem from="1602709700720" duration="290000" />
     </task>
     <servers />
   </component>
