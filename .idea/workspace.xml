@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a93acd39-a68e-407a-b68f-ebd393c86e0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <workItem from="1602629451172" duration="2163000" />
       <workItem from="1602633721460" duration="604000" />
       <workItem from="1602634409286" duration="800000" />
-      <workItem from="1602709700720" duration="1794000" />
+      <workItem from="1602709700720" duration="2683000" />
     </task>
     <servers />
   </component>
