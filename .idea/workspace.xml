@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a93acd39-a68e-407a-b68f-ebd393c86e0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/fabrizio/ClassType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/ClassType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/ClassType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,7 @@
       <workItem from="1602633721460" duration="604000" />
       <workItem from="1602634409286" duration="800000" />
       <workItem from="1602709700720" duration="7859000" />
-      <workItem from="1602718092183" duration="954000" />
+      <workItem from="1602718092183" duration="1029000" />
     </task>
     <servers />
   </component>
@@ -86,21 +82,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602710183180" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602717804864">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602795129026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602717804864" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602717804863">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602795129026" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602795129026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602717804863" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602717804863">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602795129026" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602795129025">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602717804863" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602717804863">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602795129025" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602795129026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602717804863" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602795129026" />
   </component>
 </project>
