@@ -12,6 +12,7 @@ public class Player {
     private String background; //Noble, Folk Hero, Acolyte, etc.
     private String alignment; //Lawful, Neutral, or Chaotic
 
+        //enum predetermined values then stored to saved variables
     public Player(){
         //empty constructor
     }
