@@ -15,8 +15,6 @@ public class Character {
 
 
 
-
-
     public int getAttacker() {
         return attacker;
     }

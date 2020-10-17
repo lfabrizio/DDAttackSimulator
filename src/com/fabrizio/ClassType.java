@@ -1,6 +1,7 @@
 package com.fabrizio;
 
 public enum ClassType {
+    // implment how to use enum if i have time
     // constant variables
     // not sure if im using this correctly
 //    private String[] player; //player 1, 2 etc etc

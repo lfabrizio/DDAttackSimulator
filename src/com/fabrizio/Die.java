@@ -8,15 +8,18 @@ public class Die {
 
 
     public Die() {
-        // empty constructor
+        dieValue = 1;
+        sides = 6;
     }
     // overloading
-    public Die(int sides) {
+    public Die(int sides, int dieValue) {
         this.sides = sides;
     }
 
-    public void roll(Random rand) {
-    dieValue = rand.nextInt(sides) +1;
+    public int roll(Random rand) {
+
+        dieValue = rand.nextInt(sides) +1;
+        return dieValue;
     }
     //overloading
    // public int roll(String diceValue) {
@@ -24,6 +27,14 @@ public class Die {
    //     Random rand = new Random();
 
    // }
+    //set not needed
+    public int getSides(){
+        return sides;
+    }
+
+    public int getDieValue(){
+        return dieValue;
+    }
 }
 
 
