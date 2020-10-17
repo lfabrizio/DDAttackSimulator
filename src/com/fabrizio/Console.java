@@ -8,7 +8,9 @@ public class Console{
     static Scanner scanner = new Scanner(System.in);
 
     static public void startGame(String game){
+
         System.out.println("Welcome to  " + game);
+
     }
 
 

@@ -30,7 +30,8 @@ public class Calculator extends Die {
         Random random = new Random();
         // roll the 20-sided die
         die20.roll(random);
-        System.out.println("Die20:" + die20.getDieValue());
+        System.out.print("Die20: " + die20.getDieValue());
+        System.out.println("\n-------\n");
 
         // rules state that Armour and defense Modifier is the enemy number to beat
         enemyTotal = ac + defenseModifier;
@@ -64,7 +65,7 @@ public class Calculator extends Die {
         }
         if(die20.getDieValue() > 1 && die20.getDieValue() <= 19){
             totalDamage = damageDiceOne.roll(damageDice);
-            System.out.println("You Hit the Enemy! damage of " + totalDamage);
+            System.out.println("You Hit the Enemy with a Damage of " + totalDamage);
             return totalDamage;
         }
         return totalDamage;
