@@ -4,8 +4,6 @@
     <list default="true" id="a93acd39-a68e-407a-b68f-ebd393c86e0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/ClassType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/ClassType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <workItem from="1602900287756" duration="451000" />
       <workItem from="1602948395335" duration="2893000" />
       <workItem from="1602953842290" duration="461000" />
-      <workItem from="1602954628312" duration="7457000" />
+      <workItem from="1602954628312" duration="8603000" />
     </task>
     <servers />
   </component>

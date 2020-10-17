@@ -45,14 +45,27 @@ public class Calculator extends Die {
         if (die20.getDieValue() == 20) {
             System.out.println("Critical Hit!");
             System.out.print("Roll Again 2X");
-            int damageRoll = damageDiceOne.roll(damageDice);
-            System.out.println("Attack Hit Enemy!" + damageRoll);
+            int damageRollOne = damageDiceOne.roll(damageDice);
+            System.out.println("Attack Hit Enemy!" + damageRollOne);
+
+            Die damageDiceTwo = new Die();
+            int damageTwo = damageDiceTwo.roll(damageDice);
+            System.out.println("Second Attack is : "+ damageTwo);
+
+            int rollTotal = damageRollOne + damageTwo;
+
+            System.out.println("Your Total Damage is :" + rollTotal);
+            return rollTotal;
         }
         if (die20.getDieValue() == 1) {
-            System.out.println("Critical Miss!");
+            totalDamage = 0;
+            System.out.println("Critical Miss!" + totalDamage);
+            return totalDamage;
         }
         if(die20.getDieValue() > 1 && die20.getDieValue() <= 19){
-            System.out.println("Hit damage");
+            totalDamage = damageDiceOne.roll(damageDice);
+            System.out.println("You Hit the Enemy! damage of " + totalDamage);
+            return totalDamage;
         }
         return totalDamage;
     }
