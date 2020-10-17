@@ -9,7 +9,7 @@ public class Player {
     private int health; // set to 100% till damaged
     private String gear; //attire or other
     private String classType; // Barbarian, Bard, Fighter, Monk, Wizard, etc.
-    private String background; //Noble, Folk Hero, Acolyte, etc.
+    private String background;// =  //Noble, Folk, Hero, Acolyte;
     private String alignment; //Lawful, Neutral, or Chaotic
 
         //enum predetermined values then stored to saved variables
