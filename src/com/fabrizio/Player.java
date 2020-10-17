@@ -11,6 +11,7 @@ public class Player {
     private String classType; // Barbarian, Bard, Fighter, Monk, Wizard, etc.
     private String background;// =  //Noble, Folk, Hero, Acolyte;
     private String alignment; //Lawful, Neutral, or Chaotic
+    String playerResponse = null;
 
         //enum predetermined values then stored to saved variables
     public Player(){
@@ -26,14 +27,15 @@ public class Player {
 
     public void playerSelections() {
         System.out.print("Welcome Player: " + player);
-        List<String> selections = new ArrayList<String>();
-        Scanner scanner = new Scanner(System.in);
-         System.out.print("Select ClassType: ");
-        selections.add(scanner.nextLine());
-         System.out.print("Select Background: ");
-         selections.add(scanner.nextLine());
-        System.out.println(selections);
-
+        while(playerResponse == null){
+            String[] playerResponseChoices ={
+                    "Barbarian",
+                    "Fighter",
+                    "Bard",
+                    "Monk",
+                    "Wizard"
+            };
+        }
     }
 
     public int getHealth(int health){
