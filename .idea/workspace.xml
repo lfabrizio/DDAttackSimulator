@@ -3,12 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="a93acd39-a68e-407a-b68f-ebd393c86e0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Console.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Die.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Die.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DDAttackSimulator/com/fabrizio/Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/ClassType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/ClassType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Console.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Die.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Die.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fabrizio/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fabrizio/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +82,9 @@
       <workItem from="1602718092183" duration="1029000" />
       <workItem from="1602897754687" duration="283000" />
       <workItem from="1602900287756" duration="451000" />
-      <workItem from="1602948395335" duration="1825000" />
+      <workItem from="1602948395335" duration="2893000" />
+      <workItem from="1602953842290" duration="461000" />
+      <workItem from="1602954628312" duration="2136000" />
     </task>
     <servers />
   </component>
@@ -90,21 +96,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602710183180" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602898037743">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602954303178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602898037743" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602898037743">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602954303178" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602954303178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602898037743" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602898037742">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602954303178" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602954303177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602898037742" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602898037743">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602954303177" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602954303178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602898037743" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602954303178" />
   </component>
 </project>

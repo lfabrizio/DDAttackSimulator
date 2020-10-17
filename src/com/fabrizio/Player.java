@@ -33,6 +33,7 @@ public class Player {
          System.out.print("Select Background: ");
          selections.add(scanner.nextLine());
         System.out.println(selections);
+
     }
 
     public int getHealth(int health){

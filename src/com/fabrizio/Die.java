@@ -9,7 +9,7 @@ public class Die {
 
     public Die() {
         dieValue = 1;
-        sides = 6;
+        sides = 20;
     }
     // overloading
     public Die(int sides, int dieValue) {
